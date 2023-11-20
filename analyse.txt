@@ -1,0 +1,21 @@
+LES CLASSES :
+    1. Task :
+        - A une due date
+        - A un titre
+        - A une description
+        - Peut avoir un ou plusieurs tags
+        - Appartient a un Project
+        - Peut avoir un ou plusieurs notifications
+        - Peut avoir une recurrence
+        - Peut etre marquE completed
+        - Peut etre supprimE
+        - Peut etre deplacer d'un Project a un autre Project
+        - Peut avoir une duree
+        - Peut avoir une prioritE
+    2. Project
+        - Peut avoir un deadline
+        - Peut avoir contenir un ou plusieurs taches
+        - A un nom
+    3. Tag
+        - A un nom
+    4.
