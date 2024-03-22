@@ -1,0 +1,25 @@
+LES CLASSES :
+    1. Tasks :
+        - Design 
+            - id PK
+            - title
+            - description
+            - project_id
+            - due_date
+            - priority
+            - is_completed
+        - une tache peut avoir un deadline
+        - 
+ 
+    2. Projects : groupe de taches
+        - Design 
+            - id PK
+            - name 
+            - Desciption
+        - Peut avoir un deadline
+    3. Tags
+        - id
+        - title
+    4. tasks_tag
+        - tag_id
+        - tasks_id
